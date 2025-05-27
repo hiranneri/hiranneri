@@ -16,7 +16,7 @@ Tenho conhecimentos de FullStack, Infraestrutura em Nuvem e DevOps.
 
 Tenho um blog onde compartilho um pouco dos meus conhecimentos: devhiranneri.blogspot.com
 
-# ⚙️ Technologies and Tools
+# ⚙️ Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
